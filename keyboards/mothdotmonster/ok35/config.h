@@ -1,7 +1,5 @@
 #pragma once
 
-#include "config_common.h"
-
 /* key matrix size */
 // Rows are doubled-up
 #define MATRIX_ROWS 10
